@@ -8,7 +8,7 @@ public interface StudentService {
 
 	void add (Student s);
 	List<Student>display();
-	
+	//OUGYI7GGIGIOUH
 	void delete(Integer id);
 	Student update(Student s , Integer id);
 }
